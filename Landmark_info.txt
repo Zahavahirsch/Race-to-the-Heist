@@ -1,0 +1,12 @@
+eiffel tower : 48.8584;2.2945;NE;This was built for the 1889 World's Fair
+statue of liberty: 40.6892;74.0445;NW;This was gifted to the United States from France in 1886 
+great wall of china: 40.4319;116.5704;NE;This was built over 2,000 years ago to protect against invasions
+colosseum: 41.8902;12.4922;NE;This was originally called the Flavian Amphitheater
+pyramids of giza: 29.9792;31.1342;NE;These were built as tombs for pharaohs and their consorts
+taj mahal: 27.1750;78.0422;NE;This is a marble mausoleum in Agra, India, built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal
+sydney opera house: 33.8568;151.2153;SE;This is a multi-venue performing arts center designed by Jørn Utzon
+golden gate bridge: 37.8199;122.4783;NW;This is a suspension bridge that connects San Francisco to Marin County
+burj khalifa: 25.1972;55.2744;NE;This is currently the tallest building in the world
+machu picchu: 13.1631;72.5450;SW;This is a lost city of the Incas located high in the Andes Mountains
+acropolis: 37.9715;23.7269;NE;This is a citadel and ancient sanctuary in Athens, Greece
+stonehenge: 51.1788;1.8262;NW;This is a prehistoric monument consisting of a ring of massive stones in Wiltshire, England, the purpose of which is still shrouded in mystery

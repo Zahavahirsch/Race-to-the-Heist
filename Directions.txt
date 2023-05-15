@@ -1,0 +1,10 @@
+Directions:
+
+Click around the room to find clues.
+Keep track of the clues you find in the notbeook.
+You can close any clue by exiting out of the clue window.
+Complete the game by figuring out where the next heist will be! 
+
+
+It looks like there is something open on the computer.
+Check it out!"
