@@ -249,7 +249,7 @@ def handle_click(event):
                     label_text = "There's some text written on the back of this painting of FOOTSTEPS!\nIt reads:\n\n"+Code2
                     clue_org(item, label_text)
                 else:
-                    label_text = "A painting of FOOTSSTEPS. \n\nInteresting..."
+                    label_text = "A painting of FOOTSTEPS. \n\nInteresting..."
                     clue_org(item, label_text)
             elif item == "E":
                 if chest_key == True:
