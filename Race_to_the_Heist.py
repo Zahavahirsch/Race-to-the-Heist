@@ -92,7 +92,7 @@ landmark_clue = landmark[chosen_landmark][3]
 
 #CIPHER THE LANDMARK CLUE
 #find unique letters in landmark clue and only cipher those
-unique_letters_landmark = unique(landmark_clue.upper())
+unique_letters_landmark = unique(chosen_landmark.upper())
 # Shuffle the letters randomly
 random.shuffle(unique_letters_landmark)
 # Get real letters split into 3 parts
@@ -100,7 +100,7 @@ Real, Real1, Real2, Real3 = split_alphabet(unique_letters_landmark)
 Real = list(Real)
 
 #cipher the clue
-ciphered_landmark, mapping = cipher(landmark_clue)
+ciphered_landmark, mapping = cipher(chosen_landmark)
 
 #Extract the cipher in correct order
 Code = ""
